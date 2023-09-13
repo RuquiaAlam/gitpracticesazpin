@@ -1,1 +1,1 @@
-const x="Alam";
+const x="ruquia";
